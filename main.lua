@@ -17,7 +17,7 @@ function love.load()
   }
 
   -- font
-  love.graphics.setFont(love.graphics.setNewFont(24))
+  love.graphics.setFont(love.graphics.setNewFont('fnt/Sancreek.ttf', 24))
 
   -- timer, gets reset from time to time (at beginnings of stages)
   timer = 0
