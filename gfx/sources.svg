@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sources.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4102">
+      <stop
+         style="stop-color:#fdff00;stop-opacity:1"
+         offset="0"
+         id="stop4104" />
+      <stop
+         style="stop-color:#fb9909;stop-opacity:1"
+         offset="1"
+         id="stop4106" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3791">
+      <stop
+         style="stop-color:#112330;stop-opacity:1;"
+         offset="0"
+         id="stop3793" />
+      <stop
+         style="stop-color:#6a7882;stop-opacity:1"
+         offset="1"
+         id="stop3795" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3767">
+      <stop
+         style="stop-color:#f2e99e;stop-opacity:1"
+         offset="0"
+         id="stop3769" />
+      <stop
+         style="stop-color:#f39d5f;stop-opacity:1"
+         offset="1"
+         id="stop3771" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3759">
+      <stop
+         style="stop-color:#9fd6f7;stop-opacity:1"
+         offset="0"
+         id="stop3761" />
+      <stop
+         style="stop-color:#f2f86d;stop-opacity:1"
+         offset="1"
+         id="stop3763" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="linearGradient3765"
+       x1="260"
+       y1="452.36215"
+       x2="260"
+       y2="892.36212"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3767"
+       id="linearGradient3773"
+       x1="300"
+       y1="892.36212"
+       x2="300"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3797"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-230,452.36215)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3801"
+       gradientUnits="userSpaceOnUse"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550"
+       gradientTransform="translate(-250,452.36215)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3809"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-230,452.36215)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3818"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-230,452.36215)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3844"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-230,452.36215)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3852"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-230,452.36215)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3896"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,452.36215)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3898"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,452.36215)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3900"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1030,452.36215)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3902"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1050,452.36215)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3904"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3906"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="linearGradient3987"
+       gradientUnits="userSpaceOnUse"
+       x1="260"
+       y1="452.36215"
+       x2="260"
+       y2="892.36212"
+       gradientTransform="translate(800,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3767"
+       id="linearGradient3989"
+       gradientUnits="userSpaceOnUse"
+       x1="300"
+       y1="892.36212"
+       x2="300"
+       y2="1052.3622"
+       gradientTransform="translate(800,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3991"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3993"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(550,452.36215)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,452.36215)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,452.36215)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1830,452.36215)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1850,452.36215)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4019"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1770,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4037"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="linearGradient4107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(800,600)"
+       x1="260"
+       y1="452.36215"
+       x2="260"
+       y2="892.36212" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3767"
+       id="linearGradient4109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(800,600)"
+       x1="300"
+       y1="892.36212"
+       x2="300"
+       y2="1052.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4111"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4113"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4117"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(550,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4119"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4121"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4153"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4157"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(550,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4159"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4161"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3159"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,1052.3621)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3161"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,1052.3621)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3163"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1830,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3165"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1850,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1770,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1230,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="linearGradient4020"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,600)"
+       x1="260"
+       y1="452.36215"
+       x2="260"
+       y2="892.36212" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3767"
+       id="linearGradient4022"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,600)"
+       x1="300"
+       y1="892.36212"
+       x2="300"
+       y2="1052.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4026"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4028"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4030"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(550,1052.3621)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4032"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4034"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(570,452.36215)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4076"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,1052.3622)"
+       x1="270"
+       y1="380"
+       x2="330"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,1052.3622)"
+       x1="280"
+       y1="460"
+       x2="320"
+       y2="460" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4080"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1030,1052.3622)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4082"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,1050,1052.3622)"
+       x1="300"
+       y1="550"
+       x2="330"
+       y2="550" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4092"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,1052.3622)"
+       x1="260"
+       y1="450"
+       x2="280"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient4098"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(430,1052.3622)"
+       x1="320"
+       y1="450"
+       x2="340"
+       y2="450" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4102"
+       id="linearGradient4108"
+       x1="460"
+       y1="120"
+       x2="460"
+       y2="360"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="488.15087"
+     inkscape:cy="261.33488"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="581"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36215)">
+    <rect
+       style="fill:url(#linearGradient3765);fill-opacity:1.0;stroke:none"
+       id="rect2987"
+       width="800"
+       height="600"
+       x="0"
+       y="452.36215"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="892.36212"
+       x="0"
+       height="159.99977"
+       width="800"
+       id="rect2989"
+       style="fill:url(#linearGradient3773);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3818);fill-opacity:1;stroke:none"
+       d="m 60,802.36215 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+       id="rect3775"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       id="rect3779"
+       width="40"
+       height="30"
+       x="50"
+       y="842.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="872.36212"
+       x="60"
+       height="10.000029"
+       width="20"
+       id="rect3781"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient3809);fill-opacity:1;stroke:none"
+       id="rect3783"
+       width="40"
+       height="110"
+       x="50"
+       y="882.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3797);fill-opacity:1;stroke:none"
+       d="m 70,952.36215 0,59.99995 30,0 -10,-10 0,-49.99995 z"
+       id="path3789"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3866"
+       d="m 80,942.36215 0,10 10,0 0,20 10,0 0,-20 0,-10 -20,0 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3799"
+       d="m 50,952.36215 0,59.99995 30,0 -10,-10 0,-49.99995 z"
+       style="fill:url(#linearGradient3801);fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#005b9c;fill-opacity:1;stroke:none"
+       id="rect3820"
+       width="40"
+       height="10"
+       x="50"
+       y="942.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="942.36212"
+       x="70"
+       height="10"
+       width="10"
+       id="rect3822"
+       style="fill:#ffe205;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient3852);fill-opacity:1;stroke:none"
+       id="rect3834"
+       width="20"
+       height="40"
+       x="30"
+       y="882.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient3844);fill-opacity:1;stroke:none"
+       id="rect3836"
+       width="20"
+       height="40"
+       x="90"
+       y="882.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       d="m 30,922.36215 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+       id="rect3854"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3859"
+       d="m 110,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 40,942.36215 0,10 10,0 0,20 10,0 0,-20 0,-10 -20,0 z"
+       id="rect3861"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3868"
+       d="m 720,802.36215 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+       style="fill:url(#linearGradient3896);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="842.36212"
+       x="710"
+       height="30"
+       width="40"
+       id="rect3870"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       id="rect3872"
+       width="20"
+       height="10.000029"
+       x="720"
+       y="872.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="882.36212"
+       x="710"
+       height="110"
+       width="40"
+       id="rect3874"
+       style="fill:url(#linearGradient3898);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3876"
+       d="m 730,952.36215 0,59.99995 -30,0 10,-10 0,-49.99995 z"
+       style="fill:url(#linearGradient3900);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       style="fill:url(#linearGradient3902);fill-opacity:1;stroke:none"
+       d="m 750,952.36215 0,59.99995 -30,0 10,-10 0,-49.99995 z"
+       id="path3880"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3894"
+       d="m 720,942.36215 0,10 -10,0 0,20 -10,0 0,-20 0,-10 20,0 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="942.36212"
+       x="710"
+       height="10"
+       width="40"
+       id="rect3882"
+       style="fill:#005b9c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 760,942.36215 0,10 -10,0 0,20 -10,0 0,-20 0,-10 20,0 z"
+       id="path3878"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffe205;fill-opacity:1;stroke:none"
+       id="rect3884"
+       width="10"
+       height="10"
+       x="720"
+       y="942.36212"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="882.36212"
+       x="690"
+       height="40"
+       width="20"
+       id="rect3886"
+       style="fill:url(#linearGradient3904);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="882.36212"
+       x="750"
+       height="40"
+       width="20"
+       id="rect3888"
+       style="fill:url(#linearGradient3906);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3890"
+       d="m 690,922.36215 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       d="m 770,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+       id="path3892"
+       inkscape:export-filename="./bothalive.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="452.36215"
+       x="800"
+       height="600"
+       width="800"
+       id="rect3927"
+       style="fill:url(#linearGradient3987);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient3989);fill-opacity:1;stroke:none"
+       id="rect3929"
+       width="800"
+       height="159.99977"
+       x="800"
+       y="892.36212"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3931"
+       d="m 860,802.36215 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+       style="fill:url(#linearGradient3991);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="842.36212"
+       x="850"
+       height="30"
+       width="40"
+       id="rect3933"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       id="rect3935"
+       width="20"
+       height="10.000029"
+       x="860"
+       y="872.36212"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="882.36212"
+       x="850"
+       height="110"
+       width="40"
+       id="rect3937"
+       style="fill:url(#linearGradient3993);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3939"
+       d="m 870,952.36215 0,59.99995 30,0 -10,-10 0,-49.99995 z"
+       style="fill:url(#linearGradient3995);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       style="fill:url(#linearGradient3997);fill-opacity:1;stroke:none"
+       d="m 850,952.36215 0,59.99995 30,0 -10,-10 0,-49.99995 z"
+       id="path3943"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="942.36212"
+       x="850"
+       height="10"
+       width="40"
+       id="rect3945"
+       style="fill:#005b9c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffe205;fill-opacity:1;stroke:none"
+       id="rect3947"
+       width="10"
+       height="10"
+       x="870"
+       y="942.36212"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4021"
+       inkscape:transform-center-y="-4.9791016e-05"
+       transform="matrix(0,-1,1,0,-52.36215,1732.3621)"
+       inkscape:transform-center-x="-19.999986"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:url(#linearGradient4025);fill-opacity:1;stroke:none"
+         id="rect3949"
+         width="20"
+         height="40"
+         x="830"
+         y="882.36212" />
+      <path
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         d="m 850,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+         id="path3953"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4015"
+       inkscape:transform-center-y="-4.9791016e-05"
+       transform="matrix(0,-1,1,0,7.6378502,1792.3621)"
+       inkscape:transform-center-x="-19.999986"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:url(#linearGradient4019);fill-opacity:1;stroke:none"
+         id="rect3951"
+         width="20"
+         height="40"
+         x="890"
+         y="882.36212" />
+      <path
+         id="path3955"
+         d="m 910,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 940,892.36215 10,0 0,-10 20,0 0,-10 -20,0 -10,0 0,20 z"
+       id="path3941"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3957"
+       d="m 880,892.36215 10,0 0,-10 20,0 0,-10 -20,0 -10,0 0,20 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient4003);fill-opacity:1;stroke:none"
+       d="m 1520,802.36215 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+       id="path3959"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       id="rect3961"
+       width="40"
+       height="30"
+       x="1510"
+       y="842.36212"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="872.36212"
+       x="1520"
+       height="10.000029"
+       width="20"
+       id="rect3963"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient4005);fill-opacity:1;stroke:none"
+       id="rect3965"
+       width="40"
+       height="110"
+       x="1510"
+       y="882.36212"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient4007);fill-opacity:1;stroke:none"
+       d="m 1530,952.36215 0,59.99995 -30,0 10,-10 0,-49.99995 z"
+       id="path3967"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3969"
+       d="m 1550,952.36215 0,59.99995 -30,0 10,-10 0,-49.99995 z"
+       style="fill:url(#linearGradient4009);fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#005b9c;fill-opacity:1;stroke:none"
+       id="rect3973"
+       width="40"
+       height="10"
+       x="1510"
+       y="942.36212"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="942.36212"
+       x="1520"
+       height="10"
+       width="10"
+       id="rect3977"
+       style="fill:#ffe205;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4027"
+       transform="matrix(0,1,-1,0,2392.3621,-607.63785)"
+       inkscape:transform-center-x="20.000036"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="882.36212"
+         x="-1510"
+         height="40"
+         width="20"
+         id="rect3979"
+         style="fill:url(#linearGradient4031);fill-opacity:1;stroke:none"
+         transform="scale(-1,1)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3983"
+         d="m 1490,922.36215 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+         style="fill:#6c402d;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 1460,892.36215 -10,0 0,-10 -20,0 0,-10 20,0 10,0 0,20 z"
+       id="path3971"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4033"
+       transform="matrix(0,1,-1,0,2452.3621,-667.63785)"
+       inkscape:transform-center-x="20.000036"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="882.36212"
+         x="1550"
+         height="40"
+         width="20"
+         id="rect3981"
+         style="fill:url(#linearGradient4037);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         d="m 1550,922.36215 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+         id="path3985" />
+    </g>
+    <path
+       id="path3975"
+       d="m 1520,892.36215 -10,0 0,-10 -20,0 0,-10 20,0 10,0 0,20 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothaiming.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient4107);fill-opacity:1;stroke:none"
+       id="rect4039"
+       width="800"
+       height="600"
+       x="800"
+       y="1052.3622"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1492.3621"
+       x="800"
+       height="159.99977"
+       width="800"
+       id="rect4041"
+       style="fill:url(#linearGradient4109);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1562.3622"
+       x="1400"
+       height="60"
+       width="90"
+       id="rect3941"
+       style="fill:#fb1809;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fb1809;fill-opacity:1;stroke:none"
+       id="rect3171"
+       width="90"
+       height="60"
+       x="910"
+       y="1110"
+       transform="translate(0,452.36215)"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4135"
+       transform="matrix(0,-1,1,0,-592.3621,2462.3621)"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4043"
+         d="m 860,1402.3621 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+         style="fill:url(#linearGradient4151);fill-opacity:1;stroke:none" />
+      <rect
+         y="1442.3621"
+         x="850"
+         height="30"
+         width="40"
+         id="rect4045"
+         style="fill:#6c402d;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         id="rect4047"
+         width="20"
+         height="10.000029"
+         x="860"
+         y="1472.3621" />
+      <rect
+         y="1482.3621"
+         x="850"
+         height="110"
+         width="40"
+         id="rect4049"
+         style="fill:url(#linearGradient4153);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4051"
+         d="m 870,1552.3621 0,60 30,0 -10,-10 0,-50 z"
+         style="fill:url(#linearGradient4155);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         style="fill:url(#linearGradient4157);fill-opacity:1;stroke:none"
+         d="m 850,1552.3621 0,60 30,0 -10,-10 0,-50 z"
+         id="path4053"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="1542.3621"
+         x="850"
+         height="10"
+         width="40"
+         id="rect4055"
+         style="fill:#005b9c;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffe205;fill-opacity:1;stroke:none"
+         id="rect4057"
+         width="10"
+         height="10"
+         x="870"
+         y="1542.3621" />
+      <g
+         id="g4059"
+         transform="matrix(-1,0,0,-1,1679.9999,2384.7242)"
+         inkscape:transform-center-x="20.000036"
+         inkscape:transform-center-y="4.9791016e-05">
+        <rect
+           style="fill:url(#linearGradient4159);fill-opacity:1;stroke:none"
+           id="rect4061"
+           width="20"
+           height="40"
+           x="830"
+           y="882.36212" />
+        <path
+           style="fill:#6c402d;fill-opacity:1;stroke:none"
+           d="m 850,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+           id="path4063"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4065"
+         transform="matrix(-1,0,0,-1,1799.9999,2384.7242)"
+         inkscape:transform-center-x="20.000036"
+         inkscape:transform-center-y="4.9991015e-05">
+        <rect
+           style="fill:url(#linearGradient4161);fill-opacity:1;stroke:none"
+           id="rect4067"
+           width="20"
+           height="40"
+           x="890"
+           y="882.36212" />
+        <path
+           id="path4069"
+           d="m 910,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+           style="fill:#6c402d;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       id="path4071"
+       d="m 940,1562.3622 10,0 0,-10 20,0 0,-10 -20,0 -10,0 0,20 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 920,1642.3622 10,0 0,-10 20,0 0,-10 -20,0 -10,0 0,20 z"
+       id="path4073"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3143"
+       transform="matrix(0,1,-1,0,2992.3621,62.36215)"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:url(#linearGradient3159);fill-opacity:1;stroke:none"
+         d="m 1520,1402.3621 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+         id="path4075"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+      <rect
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         id="rect4077"
+         width="40"
+         height="30"
+         x="1510"
+         y="1442.3621" />
+      <rect
+         y="1472.3621"
+         x="1520"
+         height="10.000029"
+         width="20"
+         id="rect4079"
+         style="fill:#6c402d;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:url(#linearGradient3161);fill-opacity:1;stroke:none"
+         id="rect4081"
+         width="40"
+         height="110"
+         x="1510"
+         y="1482.3621" />
+      <path
+         style="fill:url(#linearGradient3163);fill-opacity:1;stroke:none"
+         d="m 1530,1552.3621 0,60 -30,0 10,-10 0,-50 z"
+         id="path4083"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4085"
+         d="m 1550,1552.3621 0,60 -30,0 10,-10 0,-50 z"
+         style="fill:url(#linearGradient3165);fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="fill:#005b9c;fill-opacity:1;stroke:none"
+         id="rect4087"
+         width="40"
+         height="10"
+         x="1510"
+         y="1542.3621" />
+      <rect
+         y="1542.3621"
+         x="1520"
+         height="10"
+         width="10"
+         id="rect4089"
+         style="fill:#ffe205;fill-opacity:1;stroke:none" />
+      <g
+         inkscape:transform-center-y="-20.000084"
+         id="g4091"
+         transform="matrix(-1,0,0,-1,3000,2384.7242)">
+        <rect
+           y="882.36212"
+           x="-1510"
+           height="40"
+           width="20"
+           id="rect4093"
+           style="fill:url(#linearGradient3167);fill-opacity:1;stroke:none"
+           transform="scale(-1,1)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4095"
+           d="m 1490,922.36215 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+           style="fill:#6c402d;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         inkscape:transform-center-y="-20.000084"
+         id="g4099"
+         transform="matrix(-1,0,0,-1,3120,2384.7242)">
+        <rect
+           y="882.36212"
+           x="1550"
+           height="40"
+           width="20"
+           id="rect4101"
+           style="fill:url(#linearGradient3169);fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#6c402d;fill-opacity:1;stroke:none"
+           d="m 1550,922.36215 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+           id="path4103" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4097"
+       d="m 1460,1562.3622 -10,0 0,-10 -20,0 0,-10 20,0 10,0 0,20 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 1480,1642.3622 -10,0 0,-10 -20,0 0,-10 20,0 10,0 0,20 z"
+       id="path4105"
+       inkscape:export-filename="./bothdead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1052.3622"
+       x="0"
+       height="600"
+       width="800"
+       id="rect3943"
+       style="fill:url(#linearGradient4020);fill-opacity:1;stroke:none"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient4022);fill-opacity:1;stroke:none"
+       id="rect3946"
+       width="800"
+       height="159.99977"
+       x="0"
+       y="1492.3621"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1562.3622"
+       x="110"
+       height="60"
+       width="90"
+       id="rect3950"
+       style="fill:#fb1809;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,-1,1,0,-1392.3621,2462.3621)"
+       id="g3952"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:url(#linearGradient4024);fill-opacity:1;stroke:none"
+         d="m 860,1402.3621 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+         id="path3954"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+      <rect
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         id="rect3956"
+         width="40"
+         height="30"
+         x="850"
+         y="1442.3621" />
+      <rect
+         y="1472.3621"
+         x="860"
+         height="10.000029"
+         width="20"
+         id="rect3958"
+         style="fill:#6c402d;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:url(#linearGradient4026);fill-opacity:1;stroke:none"
+         id="rect3960"
+         width="40"
+         height="110"
+         x="850"
+         y="1482.3621" />
+      <path
+         style="fill:url(#linearGradient4028);fill-opacity:1;stroke:none"
+         d="m 870,1552.3621 0,60 30,0 -10,-10 0,-50 z"
+         id="path3962"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3964"
+         d="m 850,1552.3621 0,60 30,0 -10,-10 0,-50 z"
+         style="fill:url(#linearGradient4030);fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="fill:#005b9c;fill-opacity:1;stroke:none"
+         id="rect3966"
+         width="40"
+         height="10"
+         x="850"
+         y="1542.3621" />
+      <rect
+         y="1542.3621"
+         x="870"
+         height="10"
+         width="10"
+         id="rect3968"
+         style="fill:#ffe205;fill-opacity:1;stroke:none" />
+      <g
+         inkscape:transform-center-y="4.9791016e-05"
+         inkscape:transform-center-x="20.000036"
+         transform="matrix(-1,0,0,-1,1679.9999,2384.7242)"
+         id="g3970">
+        <rect
+           y="882.36212"
+           x="830"
+           height="40"
+           width="20"
+           id="rect3972"
+           style="fill:url(#linearGradient4032);fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3974"
+           d="m 850,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+           style="fill:#6c402d;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         inkscape:transform-center-y="4.9991015e-05"
+         inkscape:transform-center-x="20.000036"
+         transform="matrix(-1,0,0,-1,1799.9999,2384.7242)"
+         id="g3976">
+        <rect
+           y="882.36212"
+           x="890"
+           height="40"
+           width="20"
+           id="rect3978"
+           style="fill:url(#linearGradient4034);fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#6c402d;fill-opacity:1;stroke:none"
+           d="m 910,922.36215 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+           id="path3980" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 140,1562.3622 10,0 0,-10 20,0 0,-10 -20,0 -10,0 0,20 z"
+       id="path3982"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3984"
+       d="m 120,1642.3622 10,0 0,-10 20,0 0,-10 -20,0 -10,0 0,20 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient4076);fill-opacity:1;stroke:none"
+       d="m 720,1402.3622 0,20 -20,0 0,20 20,0 20,0 20,0 0,-20 -20,0 0,-20 z"
+       id="path4048"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       id="rect4050"
+       width="40"
+       height="30"
+       x="710"
+       y="1442.3622"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1472.3622"
+       x="720"
+       height="10.000029"
+       width="20"
+       id="rect4052"
+       style="fill:#6c402d;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient4078);fill-opacity:1;stroke:none"
+       id="rect4054"
+       width="40"
+       height="110"
+       x="710"
+       y="1482.3622"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient4080);fill-opacity:1;stroke:none"
+       d="m 730,1552.3622 0,59.9999 -30,0 10,-10 0,-49.9999 z"
+       id="path4056"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4058"
+       d="m 750,1552.3622 0,59.9999 -30,0 10,-10 0,-49.9999 z"
+       style="fill:url(#linearGradient4082);fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       d="m 720,1542.3622 0,10 -10,0 0,20 -10,0 0,-20 0,-10 20,0 z"
+       id="path4060"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#005b9c;fill-opacity:1;stroke:none"
+       id="rect4062"
+       width="40"
+       height="10"
+       x="710"
+       y="1542.3622"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4064"
+       d="m 760,1542.3622 0,10 -10,0 0,20 -10,0 0,-20 0,-10 20,0 z"
+       style="fill:#1e2123;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1542.3622"
+       x="720"
+       height="10"
+       width="10"
+       id="rect4066"
+       style="fill:#ffe205;fill-opacity:1;stroke:none"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4088"
+       inkscape:transform-center-y="-20.000042"
+       transform="matrix(-1,0,0,-1,1400,2984.7243)"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="1482.3622"
+         x="690"
+         height="40"
+         width="20"
+         id="rect4068"
+         style="fill:url(#linearGradient4092);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4072"
+         d="m 690,1522.3622 0,20 10,0 0,-10 10,0 0,-10 -10,0 -10,0 z"
+         style="fill:#6c402d;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4094"
+       inkscape:transform-center-y="-20.000041"
+       transform="matrix(1,0,0,-1,0,2984.7243)"
+       inkscape:export-filename="./onedead.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="1482.3622"
+         x="750"
+         height="40"
+         width="20"
+         id="rect4070"
+         style="fill:url(#linearGradient4098);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#6c402d;fill-opacity:1;stroke:none"
+         d="m 770,1522.3622 0,20 -10,0 0,-10 -10,0 0,-10 10,0 10,0 z"
+         id="path4074" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient4108);fill-opacity:1;stroke:none"
+       id="path4100"
+       sodipodi:cx="440"
+       sodipodi:cy="240"
+       sodipodi:rx="120"
+       sodipodi:ry="120"
+       d="m 560,240 a 120,120 0 1 1 -240,0 120,120 0 1 1 240,0 z"
+       transform="matrix(1.0666667,0,0,1.0666667,-69.333344,-31.637862)"
+       inkscape:export-filename="./sun.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
