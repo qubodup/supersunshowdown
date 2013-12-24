@@ -8,7 +8,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ]]--
 
 function love.load()
-  success = love.graphics.setMode(800,600)
+  success = love.window.setMode(800,600)
 
   gfx = {
     bothalive = love.graphics.newImage("gfx/bothalive.png"),
