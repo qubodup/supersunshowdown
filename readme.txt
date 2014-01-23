@@ -19,6 +19,15 @@ Or drag and drop this directory on top of the love2d engine executable.
 
 Or create a zip of this directory (main.lua has to be in root!)
 
+= Art & Audio =
+
+See
+http://openclipart.org/collection/collection-detail/qubodup/8268
+and
+http://freesound.org/people/qubodup/packs/11907/
+
+for both downloads and license information
+
 = Font =
 
 fnt/*otf
